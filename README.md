@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AVINESHWAR-KRISHNA
+- 👋 Hi, I’m @Avineshwar Krishna Singh
 - 👀 I’m interested in Python Programming 
 - 🌱 I’m currently learning Python & Data Analysis
 - 💞️ I’m looking to collaborate on Python Projects
