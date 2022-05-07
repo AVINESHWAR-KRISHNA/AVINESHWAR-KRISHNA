@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AVINESHWAR-KRISHNA
-- 👀 I’m interested in Data Science | Python
-- 🌱 I’m currently learning Python | Data Analysis
+- 👀 I’m interested in Python Programming 
+- 🌱 I’m currently learning Python & Data Analysis
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me avineshwarkrishnasingh@gmail.com
 
