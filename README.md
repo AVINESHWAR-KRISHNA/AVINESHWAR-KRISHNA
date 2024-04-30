@@ -1,6 +1,6 @@
 # About Me:
-• 👋 Hi, I’m @Avineshwar Krishna Singh
-• 👀 I’m interested in Python Programming
+#👋 Hi, I’m @Avineshwar Krishna Singh
+#👀 I’m interested in Python Programming
 • 🌱 I’m currently learning Python & Machine Learning.
 • 💞️ I’m looking to collaborate on Python Projects
 • 📫 How to reach me avineshwarkrishnasingh@gmail.com
