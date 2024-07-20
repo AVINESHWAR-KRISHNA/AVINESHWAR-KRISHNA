@@ -28,7 +28,7 @@
 ![Azure Data Lake](https://img.shields.io/badge/azure%20data%20lake-%230072C6.svg?style=for-the-badge&logo=azure-data-lake&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AVINESHWAR-KRISHNA&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AVINESHWAR-KRISHNA&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AVINESHWAR-KRISHNA&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AVINESHWAR-KRISHNA&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
